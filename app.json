@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+            "description": "levanter_16984dcb7b18554b369955cdf713308b06",
             "required": true
         },
         "SUDO": {
